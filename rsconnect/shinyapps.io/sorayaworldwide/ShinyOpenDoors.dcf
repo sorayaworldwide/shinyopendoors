@@ -1,0 +1,13 @@
+name: ShinyOpenDoors
+title: ShinyOpenDoors
+username:
+account: sorayaworldwide
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3036756
+bundleId: 3751406
+url: https://sorayaworldwide.shinyapps.io/ShinyOpenDoors/
+when: 1602911601.06975
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/Intl Students 1980-2019.xlsx
