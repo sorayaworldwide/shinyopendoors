@@ -5,9 +5,9 @@ account: sorayaworldwide
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3036756
-bundleId: 3751406
+bundleId: 3753567
 url: https://sorayaworldwide.shinyapps.io/ShinyOpenDoors/
-when: 1602911601.06975
+when: 1602985768.3431
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data/Intl Students 1980-2019.xlsx
+ignoredFiles: www/Open-Doors-Logo.jpg
